@@ -14,7 +14,7 @@ function kilometerToMeter(km) {
     }
 
 }
-var result = kilometerToMeter(4);
+var result = kilometerToMeter(-4);
 console.log(result);
 
 
@@ -68,7 +68,7 @@ function hotelCost(nights) {
     }
 }
 
-var totalCost = hotelCost(7);
+var totalCost = hotelCost(-7);
 console.log(totalCost);
 
 
